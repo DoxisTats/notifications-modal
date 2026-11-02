@@ -1,0 +1,54 @@
+/*
+ * Design tokens used by the Notifications modal (from Figma "Design system - Handoff").
+ * If your app already defines these variables globally, delete this file.
+ */
+:root {
+  --font-family-body: 'Inter', system-ui, -apple-system, 'Segoe UI', sans-serif;
+
+  --colors-bg-primary: #ffffff;
+  --colors-bg-primary-alt: #ffffff;
+  --colors-bg-primary-hover: #fafafa;
+  --colors-bg-secondary-alt: #fafafa;
+  --colors-bg-tertiary: #f5f5f5;
+  --colors-bg-success-secondary: #dcfae6;
+  --colors-bg-error-secondary: #fee4e2;
+
+  --colors-border-primary: #d5d7da;
+  --colors-border-secondary: #e9eaeb;
+  --colors-border-secondary-alt: rgba(0, 0, 0, 0.1);
+
+  --colors-text-primary: #181d27;
+  --colors-text-secondary: #414651;
+  --colors-text-tertiary: #535862;
+  --colors-text-quaternary: #717680;
+  --colors-text-error-primary: #d92d20;
+  --colors-text-brand: #066074;
+
+  --colors-fg-tertiary: #535862;
+  --colors-fg-quaternary: #a4a7ae;
+  --colors-fg-disabled: #a4a7ae;
+  --colors-fg-success-primary: #079455;
+  --colors-fg-error-primary: #d92d20;
+  --colors-fg-brand: #066074;
+  --colors-fg-white: #ffffff;
+
+  --utility-gray-50: #fafafa;
+  --utility-gray-200: #e9eaeb;
+  --utility-gray-700: #414651;
+
+  --spacing-xxs: 2px;
+  --spacing-xs: 4px;
+  --spacing-md: 8px;
+  --spacing-lg: 12px;
+  --spacing-xl: 16px;
+  --spacing-3xl: 24px;
+  --spacing-6xl: 48px;
+
+  --radius-md: 8px;
+  --radius-2xl: 16px;
+  --radius-full: 9999px;
+
+  --shadow-xs: 0 1px 2px 0 rgba(10, 13, 18, 0.05);
+  --shadow-xl: 0 20px 24px -4px rgba(10, 13, 18, 0.08), 0 8px 8px -4px rgba(10, 13, 18, 0.03),
+    0 3px 3px -1.5px rgba(10, 13, 18, 0.04);
+}

@@ -3,6 +3,8 @@
 Doxis notifications modal built from the Figma design system handoff
 (`Design system - Handoff`, nodes 5549:3297 and 679:7332).
 
+**Live preview:** https://doxistats.github.io/notifications-modal/
+
 ## Run the demo
 
 ```bash
